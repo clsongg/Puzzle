@@ -2,7 +2,7 @@
 
 퍼즐 GAME
 
-## 로컬 스토리지(localStorage) / 세션 스토리지(sessionStorage)
+### 로컬 스토리지(localStorage) / 세션 스토리지(sessionStorage)
 
 HTML5에서 추가된 저장소. key=value 형태.
 
@@ -18,7 +18,7 @@ HTML5에서 추가된 저장소. key=value 형태.
 
 따라서 많은 양의 데이터를 저장할 수 없음. HTTP요청마다 포함되어 서버에 전달되므로 필요하지 않은 데이터가 전달되어짐.
 
-## 로컬 스토리지(localStorage)
+### 로컬 스토리지(localStorage)
 window.localstorage에 위치.
 
 값으로는 문자열, 불린, 숫자, null, undefined 등을 저장할 수 있지만, 모두 문자열로 변환(키값도 문자열로 변환됨)
